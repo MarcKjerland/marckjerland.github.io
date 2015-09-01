@@ -1,3 +1,3 @@
 # marckjerland.github.io
 
-This repository will host the markup for the webpage at marckjerland.github.io .
+This repository will host the content of the webpage at marckjerland.com .
